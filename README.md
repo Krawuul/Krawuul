@@ -1,4 +1,4 @@
-## Welcome to Krawuul Github! 👋
+## Welcome to Krawuul's Github! 👋
 
 Hey! i'm Tom, a student developer at Créajeux Nîmes. I'm heading for my last formation year.
 Here is some project i've worked on, feel free to watch or try them! 😃
