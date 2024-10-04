@@ -1,4 +1,7 @@
-## Hi there 👋
+## Welcome to Krawuul Github! 👋
+
+Hey! i'm Tom, a student developer at Créajeux Nîmes. I'm heading for my last formation year.
+Here is some project i've worked on, feel free to watch or try them! 😃
 
 <!--
 **Krawuul/Krawuul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
