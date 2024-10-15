@@ -4,19 +4,16 @@ Hey! i'm Tom, a student developer at Créajeux Nîmes. I'm heading for my last f
 Here is some project i've worked on, feel free to watch or try them! 😃
 
 ## - From The Stars -
-
 ## - Deeper in my mind -
 
 > *Try the game [here](https://sobriket.itch.io/dimm)*
 
 ## - The Rite -
-
 ## - Dominion Corp -
 
 > *Try the game [here](https://sobriket.itch.io/dominion)*
 
 ## - Minion Invasion -
-
 ## - Rogue Like Project -
 
 > *Try the game [here](https://sobriket.itch.io/rogue-like-test)*
