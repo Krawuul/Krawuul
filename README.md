@@ -1,7 +1,7 @@
 # Welcome to Krawuul's Github! 👋
 
 Hey! I'm Tom, a student developer at Créajeux Nîmes. I'm heading into my last formation year.
-Here are some projects i've worked on, feel free to check them out! 😃
+Here are some projects I've worked on, feel free to check them out! 😃
 
 ## - From The Stars -
 ## - Deeper in my mind -
