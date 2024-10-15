@@ -29,8 +29,6 @@ Here is some project i've worked on, feel free to watch or try them! 😃
 
 > *Try the game [here](https://mathieu-coutant.itch.io/geckolot)*
 
-Link to the helpful section: [Link Text](#--from-the-stars--).
-
 <!--
 **Krawuul/Krawuul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
