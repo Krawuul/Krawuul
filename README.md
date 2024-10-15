@@ -9,11 +9,11 @@ Here is some project i've worked on, feel free to watch or try them! 😃
 
 > *Try the game [here](https://sobriket.itch.io/dimm)*
 
+## - The Rite -
+
 ## - Dominion Corp -
 
 > *Try the game [here](https://sobriket.itch.io/dominion)*
-
-## - The Rite -
 
 ## - Minion Invasion -
 
