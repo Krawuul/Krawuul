@@ -23,34 +23,79 @@ crystals, fans and brick walls. Your goal is to go the furthest possible.
 </blockquote>
 
 ## - The Rite -
+(WIP)
+
 ## - Dominion Corp -
 
 > *Try the game [here](https://sobriket.itch.io/dominion)*
 
+It's an endless arcade mining simulation game with a pixel art style.
+You are controlling a mothership sending it's drones to mine every asteroids around.
+
+<blockquote>
+<b>Technologies used:</b> Unity, C#, Git<br>
+<b>Team size:</b> 2<br>
+<b>Duration:</b> 6 months<br>
+<b>Tasks:</b> Gameplay, UI, Shaders
+</blockquote>
+
 ## - Minion Invasion -
+
+Minion Invasion is a 2D tower defense game.
+It was made for my second year project with a team of 10 peoples.
+The goal is to defend your castle against hordes of enemies, by building different tower types and using spells wisely.
+
+![MinionInvasionjpg](https://github.com/user-attachments/assets/d3f6ae42-9a71-45e6-8426-4db0e925d4c7)
+
+<blockquote>
+<b>Technologies used:</b> Unity, C#, SVN<br>
+<b>Team size:</b> 10<br>
+<b>Duration:</b> 5 months<br>
+<b>Tasks:</b> Gameplay (Towers & Upgrades), UI, InApp currency
+</blockquote>
+
 ## - Rogue Like Project -
 
 > *Try the game [here](https://sobriket.itch.io/rogue-like-test)*
+
+A test project made with a friend during holidays.
+It's a simple and classic rogue like, kills enemies around differents room and gather items to get more powerful.
+
+<blockquote>
+<b>Technologies used:</b> Unity, C#, Git<br>
+<b>Team size:</b> 2<br>
+<b>Duration:</b> 2 months<br>
+<b>Tasks:</b> Gameplay (Players & Items), AI (A* pathfinding)
+</blockquote>
 
 ## - Neon Dice -
 
 > *Try the game [here](https://flegmatik-surf.itch.io/neon-dice)*
 
+Neon dice was made for The GMTK 2022 GameJam where the theme was "Roll of the dice".
+It's a co-op dungeon crawler in a pixel art style with a retrowave inspiration,
+where both players are dices with random abilities.
+
+<blockquote>
+<b>Technologies used:</b> Unity, C#, Git<br>
+<b>Team size:</b> 8<br>
+<b>Duration:</b> 48h<br>
+<b>Tasks:</b> GUI Design, Team lead.
+</blockquote>
+
 ## - Geckolot -
 
 > *Try the game [here](https://mathieu-coutant.itch.io/geckolot)*
 
-<!--
-**Krawuul/Krawuul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Geckolot was made for the GGJ 2022 GameJam where the theme was "Duality".
+It's a co-op platformer where each players control an Axolotl and a Gecko,
+which one has opposed abilities (Axolotl repulse and Gecko attract.)
 
-Here are some ideas to get you started:
+![Geckolot-ezgif com-optimize](https://github.com/user-attachments/assets/a2ca9a76-742e-49d7-82f5-91ed319e811c)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<blockquote>
+<b>Technologies used:</b> Unity, C#, Git<br>
+<b>Team size:</b> 7<br>
+<b>Duration:</b> 48h<br>
+<b>Tasks:</b> Gameplay, Assets integration.
+</blockquote>
