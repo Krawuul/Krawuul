@@ -15,6 +15,8 @@ It's an endless runner in first person view,
 you're playing in a bicolor environment where you have to dodge donuts,
 crystals, fans and brick walls. Your goal is to go the furthest possible.
 
+I've worked on the camera effect and the game architecture.
+
 <blockquote>
 <b>Technologies used:</b> Unity, C#, Git<br>
 <b>Team size:</b> 4<br>
