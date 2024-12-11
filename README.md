@@ -16,6 +16,7 @@ you're playing in a bicolor environment where you have to dodge donuts,
 crystals, fans and brick walls. Your goal is to go the furthest possible.
 
 I've worked on the camera effect and the game architecture.
+Adding some cool camera effect in order to apply game feels and feedbacks.
 
 <blockquote>
 <b>Technologies used:</b> Unity, C#, Git<br>
@@ -34,6 +35,10 @@ I've worked on the camera effect and the game architecture.
 It's an endless arcade mining simulation game with a pixel art style.
 You are controlling a mothership sending it's drones to mine every asteroids around.
 
+On this project I've worked on the drones AI to make them search for asteroids around the players considering filters,
+and optimized it to fit the game scale.
+I've also made most of the UI.
+
 <blockquote>
 <b>Technologies used:</b> Unity, C#, Git<br>
 <b>Team size:</b> 2<br>
@@ -46,6 +51,9 @@ You are controlling a mothership sending it's drones to mine every asteroids aro
 Minion Invasion is a 2D tower defense game.
 It was made for my second year project with a team of 10 peoples.
 The goal is to defend your castle against hordes of enemies, by building different tower types and using spells wisely.
+
+Towers and upgrading was my main tasks, making them modular enough to create a lot of different types of towers with ease.
+I've also took some time profiling to optimize the game and UI for the InApp currency.
 
 ![MinionInvasionjpg](https://github.com/user-attachments/assets/d3f6ae42-9a71-45e6-8426-4db0e925d4c7)
 
@@ -62,6 +70,8 @@ The goal is to defend your castle against hordes of enemies, by building differe
 
 A test project made with a friend during holidays.
 It's a simple and classic rogue like, kills enemies around differents room and gather items to get more powerful.
+
+I've worked on the player controller and spells, the enemies AI with a custom A* system and items.
 
 <blockquote>
 <b>Technologies used:</b> Unity, C#, Git<br>
